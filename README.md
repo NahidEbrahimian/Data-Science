@@ -8,3 +8,9 @@ Reference sites: [towardsdatascience]( https://towardsdatascience.com/data-drive
 
 Dataset: [kaggle]( https://www.kaggle.com/vijayuv/onlineretail)
 
+#
+
+## 02- Fruits-Visualization.ipynb
+
+Refrence site: [fatalerrors]( https://www.fatalerrors.org/a/python-visualization-case-fruit-classification-banana-and-apple-war.html)
+
