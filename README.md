@@ -1,7 +1,7 @@
-# Data-Analyses-and-Visualization
+# Data-Analysis-and-Visualization
 
 
-## 01- OnlineRetail-DataAnalyses
+## 01- OnlineRetail-DataAnalysis
 Know Metrics using combination of programming, data analysis, and machine learning for applying the predictive approach to fuel company’s growth
 
 Reference sites: [towardsdatascience]( https://towardsdatascience.com/data-driven-growth-with-python-part-1-know-your-metrics-812781e66a5b)
