@@ -10,7 +10,7 @@ Dataset: [kaggle]( https://www.kaggle.com/vijayuv/onlineretail)
 
 #
 
-## 02- Fruits-Visualization.ipynb
+## 02- Fruits-Visualization
 
 Refrence site: [fatalerrors]( https://www.fatalerrors.org/a/python-visualization-case-fruit-classification-banana-and-apple-war.html)
 
