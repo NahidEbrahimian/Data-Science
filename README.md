@@ -23,3 +23,8 @@ Refrence site: [fatalerrors]( https://www.fatalerrors.org/a/python-visualization
 
 - Titanic dataAnalysis
  
+#
+
+## 04- 3DScatterPlot
+
+3D scatter plot for dataset with random numbers
