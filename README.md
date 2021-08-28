@@ -34,3 +34,9 @@ Refrence site: [fatalerrors]( https://www.fatalerrors.org/a/python-visualization
 ## 05- covid-19
 
 - covid-19 dataAnalysis
+
+#
+
+## 06- Digikala
+
+- Digikala dataAnalysis
